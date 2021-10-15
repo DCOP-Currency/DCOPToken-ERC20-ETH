@@ -1,1 +1,7 @@
 # DCOPToken-ERC20-ETH
+
+
+### CONTRACT ROPSTEN NETWORK
+
+0xb4f7cc872a9f84b11a894be2f6327d0b3260b524
+https://ropsten.etherscan.io/address/0xb4f7cc872a9f84b11a894be2f6327d0b3260b524
